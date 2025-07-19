@@ -148,6 +148,9 @@ main > section{
     font-weight: 400px;
     gap: 1px;
 }
+*{
+    
+}
 
 
 /* next-step-design */
@@ -302,7 +305,8 @@ main > section{
     }
     .box-design{
         grid-template-columns: repeat(1,1fr);
-        margin: 20px 80px;
+        margin: 20px 72px;
+
 
 
     }
@@ -320,8 +324,10 @@ main > section{
         flex-direction: column;
     }
     .similar{
-        width: 100%;
+        width: 80%;
         text-align: center;
+        
+        
         
     }
     .img5{
@@ -332,11 +338,11 @@ main > section{
         margin: 10px auto;
     }
     .dark-3{
-        padding: 10px 70px 10px 5px;
+        padding: 10px 20px 10px 5px;
         
     }
     .dark-1{
-        margin-right: 50px;
+        text-align: center;
     }
     .next{
         padding: 10px 70px 10px 50px ;
@@ -352,7 +358,13 @@ main > section{
 
     .header-sub-title{
         padding: 2px 20px 2px 20px;
+        
+        
     }
+    *{
+        border: 1px solid red;
+    }
+    
 
 
 
@@ -379,6 +391,7 @@ main > section{
         flex-direction: column;
         
     }
+    
     
 
 
