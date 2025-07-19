@@ -299,6 +299,9 @@ main > section{
     .ol-design{
         display: grid;
         grid-template-columns: repeat(4,1fr);
+        width: 90%;
+        
+        
     }
     .button-1{
         margin-bottom: 5px;
@@ -361,6 +364,7 @@ main > section{
         
         
     }
+    
     
     
 
